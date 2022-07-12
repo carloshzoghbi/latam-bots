@@ -1,8 +1,8 @@
 # LAB Shape - LATAM
 
-## In order to analyze the results of this LAB you must have access to the PR1 Dashboard and select the Shape PS-Team Enterprise ##
+## In order to analyze the results of this LAB you must have access to the PR1 Dashboard and select the - Shape PS-Team - Enterprise ##
 
-1. Advanced
+1. Advanced Bots
 
     Bot created using Puppeteer 
 
@@ -15,9 +15,9 @@
         4.1 - Sigle request - type: node bot_single.js
         4.2 - Multiple requests - type: node bot_multiple.js ## it will use the cred.txt to build the array starts the Logins
 
-    ## The PROXY argument is empty as it isn't in use. If you have multiple proxies to forward the traffic to, you can pass it in the cred.txt
+    ### The PROXY argument is empty as it isn't in use. If you have multiple proxies to forward the traffic to, you can pass it in the cred.txt and update the code to use the proxy configuration
 
-2. Medium
+2. Medium 
 
     Bot created using Selenium
 
@@ -29,7 +29,7 @@
     4. run command -> pip install pip --upgrade
     5. run command -> pip install -r requirements.txt
 
-    # The files usernames.txt & passwords.txt must be updated accordingly respecting the actual format
+    #### The files usernames.txt & passwords.txt must be updated accordingly respecting the actual format
 
     6. run command -> python bot_medium.py
 
@@ -57,3 +57,5 @@
         4.5 python py_token_missing.py
 
         4.6 deactivate # returns to the main OS environment 
+
+#Enjoy
