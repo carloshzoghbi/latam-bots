@@ -31,6 +31,7 @@ Please clone this REPO locally in order to follow the instructions.
     3. run command -> source .venv/bin/activate
     4. run command -> pip install pip --upgrade
     5. run command -> pip install -r requirements.txt
+    6. run command -> cp chromedriver .venv/bin/
 
     #### The files usernames.txt & passwords.txt must be updated accordingly respecting the actual format
 
