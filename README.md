@@ -3,6 +3,8 @@
 ## In order to analyze the results of this LAB you must have access to the PR1 Dashboard and select the - Shape PS-Team - Enterprise ##
 
 Please clone this REPO locally in order to follow the instructions. 
+- NPM is required; (can be installed using homebrew)
+- Python3 is required; (can be installed using homebrew)
 
 
 1. Advanced Bots
