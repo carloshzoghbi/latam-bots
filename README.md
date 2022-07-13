@@ -7,6 +7,8 @@ Please clone this REPO locally in order to follow the instructions.
 - Python3 is required; (can be installed using homebrew)
 
 
+
+
 1. Advanced Bots
 
     Bot created using Puppeteer 
