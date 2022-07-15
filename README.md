@@ -1,6 +1,6 @@
 # LAB Shape - LATAM
 
-## In order to analyze the results of this LAB you must have access to the PR1 Dashboard and select the - Shape PS-Team - Enterprise ##
+## In order to analyze the results of this LAB you must have access to the PR1 Dashboard and select the Enterprise - Shape PS-Team ##
 
 Please clone this REPO locally in order to follow the instructions. 
 - NPM is required; (can be installed using homebrew)
