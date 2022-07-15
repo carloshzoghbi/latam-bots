@@ -30,6 +30,8 @@ Please clone this REPO locally in order to follow the instructions.
 
     INSTRUCTIONS
 
+    1st time
+
     1. Go to medium dir
     2. run command -> python3 -m venv .venv
     3. run command -> source .venv/bin/activate
@@ -37,9 +39,15 @@ Please clone this REPO locally in order to follow the instructions.
     5. run command -> pip install -r requirements.txt
     6. run command -> cp chromedriver .venv/bin/
 
-    #### The files usernames.txt & passwords.txt must be updated accordingly respecting the actual format
+    #### The files ##usernames.txt & ##passwords.txt must be updated accordingly respecting the actual format
 
     6. run command -> python bot_medium.py
+
+    2nd time on
+    
+    1. Go to medium dir
+    2. run command -> source .venv/bin/activate
+    3. run command -> python bot_medium.py
 
 3. Simple
 
@@ -57,6 +65,8 @@ Please clone this REPO locally in order to follow the instructions.
 
     4. To run the python script for the 1st time, run the following commands:
 
+    1st time
+
         4.1 python3 -m .venv venv
         4.2 source .venv/bin/activate
         4.3 pip install pip --upgrade
@@ -65,5 +75,10 @@ Please clone this REPO locally in order to follow the instructions.
         4.5 python py_token_missing.py
 
         4.6 deactivate # returns to the main OS environment 
+
+    2nd time on
+    
+        1. source .venv/bin/activate
+        2. python py_token_missing.py
 
 #Enjoy
