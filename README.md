@@ -67,7 +67,7 @@ Please clone this REPO locally in order to follow the instructions.
 
     1st time
 
-        4.1 python3 -m .venv venv
+        4.1 python3 -m venv .venv
         4.2 source .venv/bin/activate
         4.3 pip install pip --upgrade
         4.4 pip install -r requirements.txt
